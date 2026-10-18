@@ -1,0 +1,26 @@
+[
+  {
+    "technology": "Python",
+    "level": "iniciante",
+    "description": "Fundamentos para criar programas claros e úteis.",
+    "modules": ["Lógica e sintaxe", "Estruturas de dados", "Funções", "Arquivos e testes"]
+  },
+  {
+    "technology": "JavaScript",
+    "level": "iniciante",
+    "description": "Base para páginas web interativas.",
+    "modules": ["Sintaxe", "DOM", "Eventos", "Assíncrono"]
+  },
+  {
+    "technology": "Python",
+    "level": "intermediário",
+    "description": "Práticas para construir aplicações organizadas.",
+    "modules": ["Orientação a objetos", "APIs", "Persistência", "Boas práticas"]
+  },
+  {
+    "technology": "JavaScript",
+    "level": "intermediário",
+    "description": "Desenvolvimento de aplicações modernas no ecossistema web.",
+    "modules": ["Módulos", "Fetch e APIs", "Testes", "Arquitetura frontend"]
+  }
+]
